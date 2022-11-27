@@ -3,4 +3,3 @@ uvicorn
 fastapi
 pydantic
 yandex_geocoder
-logging
