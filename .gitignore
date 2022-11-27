@@ -1,0 +1,18 @@
+# Python files
+__pycache__/
+
+# DB files
+*.db
+
+# Log files
+*.log
+
+# venv files
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# OLD version of API
+OLD/
